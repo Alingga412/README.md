@@ -10,7 +10,7 @@
 | 2. | Tugas Praktium 4 | [penjelasan](#TugasPraktikum-4) | 
 
 ## TugasLatihan 4
-![gambar output](gambar/latihan4.PNG)
+![gambar output](gambar/latihan4.png)
 
 ## Hasil Source Code
 ```python
@@ -39,10 +39,10 @@ print ("mengabungkan list A dan B : " ,dataa + datab)
 print("══════════════════════════════════════")
 ```
 ## Hasil Output 
-![gambar output](gambar/Screenshot%(19).png)
+![gambar output](gambar/Screenshot%20(19).png)
 
 ## TugasPraktikum 4
-![gambar output](gambar/soalpraktikum4.PNG)
+![gambar output](gambar/soalpraktikum4.png)
 
 ## Hasil Source Code
 ```python
