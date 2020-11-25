@@ -39,7 +39,7 @@ print ("mengabungkan list A dan B : " ,dataa + datab)
 print("══════════════════════════════════════")
 ```
 ## Hasil Output 
-![gambar output](gambar/Hasillatihan4.png)
+![gambar output](gambar/Screenshot%(19).png)
 
 ## TugasPraktikum 4
 ![gambar output](gambar/soalpraktikum4.PNG)
@@ -119,4 +119,4 @@ for item in nilai:
 print("==================================================================")
 ```
 Berikut hasil dari program data mahasiswa 
-![gambar output](gambar/hasilpraktikum4.png)
+![gambar output](gambar/Screenshot%20(20).png)
